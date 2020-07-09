@@ -1,6 +1,6 @@
 ### Code
 
-I'm a big fan of Typescript and React. My code is currently working towards mordernizing Canadian banking at [https://github.com/neofinancial](Neo Financial)
+I'm a big fan of Typescript and React. My code is currently working towards mordernizing Canadian banking at [Neo Financial](https://github.com/neofinancial)
 
 Forever searching for the perfect abstraction.
 
